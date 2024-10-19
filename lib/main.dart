@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 import 'input_page.dart';
+<<<<<<< HEAD
+=======
+import 'result_screen.dart';
+>>>>>>> my-new-branch
 
 void main() {
   runApp(const BMI_Calculator());
